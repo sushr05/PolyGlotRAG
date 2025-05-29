@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-pinecone
+langgraph
+sentence-transformers
+pinecone-client
+transformers[torch]
+accelerate
+python-dotenv
+requests
+tiktoken
+# Add any other specific dependencies as needed
